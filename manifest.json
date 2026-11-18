@@ -1,0 +1,12 @@
+
+{
+  "name": "Pediatric DKA Manager",
+  "short_name": "DKA Manager",
+  "description": "Pediatric DKA educational calculator",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#10243a"
+}
